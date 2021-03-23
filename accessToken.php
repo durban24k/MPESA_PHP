@@ -1,7 +1,7 @@
 <?php
      function accessToken(){
-          $consumerKey='88xof0nnCaTBavT7qFRVlkdKUKNAAfuU';
-          $consumerSecret='6c5idthYmGvQgo30';
+          $consumerKey='#';
+          $consumerSecret='#';
           $headers=['Content-Type:application/json; charset=utf-8'];
           $url='https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials';
 
