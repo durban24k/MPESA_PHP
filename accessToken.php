@@ -17,6 +17,5 @@
           curl_close($curl);
           
           return $result->access_token;
-          // echo $access_token;
      }
 ?>
